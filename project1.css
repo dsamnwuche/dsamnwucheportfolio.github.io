@@ -1,0 +1,40 @@
+#template{
+    background-color:cyan;
+    border: 2px dotted; 
+    border-radius: 5%;
+    text-align:center;
+    
+}
+a:hover{
+    color:gold
+}
+a:link{
+    color:chocolate
+}
+a:visited{
+    color:maroon
+}
+body{
+    background-color: blanchedalmond;
+    
+}
+h1{
+    background-color:rgb(22, 6, 116);
+    color:whitesmoke;
+    text-align:center
+}
+h2{
+    background-color:cornflowerblue;
+}
+button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:15px;
+    color:rgb(10, 179, 41);
+    background-color: darkslateblue;
+    border-radius: 40%;
+    border-style:solid;
+    
+}
+img{
+    float:unset
+}

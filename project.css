@@ -1,0 +1,169 @@
+h2{
+    color:aliceblue
+}
+body{
+
+background: repeating-linear-gradient(gray,rgb(68, 114, 146) );
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-blend-mode: luminosity;
+enable-background: 100px;
+backface-visibility: visible;
+cursor:pointer;
+cursor:;
+
+}
+a:hover{
+    color: forestgreen;
+
+}
+a:active{
+    color:darkturquoise;
+}
+a:link{
+    color:chocolate;
+}
+a:visited{
+    color:maroon;
+}
+h1{
+    background-color: rgb(165, 42, 42);
+    color:aliceblue;
+    text-align: center;
+
+
+}
+
+#ball{
+    height: 40px;
+    width:30px;
+    border-radius: 35%;
+    background-color: yellowgreen;
+}
+#bal{
+    height: 40px;
+    width:30px;
+    border-radius: 35%;
+    background-color: indianred;
+}
+#look{
+    background-color: blueviolet;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20%;
+    transform:translateX(400px);
+    transform: translateY();
+    font-family:consolas;
+    font-size: 13px;
+    border: 3px black;
+    text-justify: auto;
+    
+    
+    
+
+}
+#look:hover{
+    background-color: rgba(0, 255, 255, 0.676);
+
+    
+}
+#look1{
+    background-color: blueviolet;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20%;
+    transform:translateX(400px);
+    transform: translateY();
+    font-family:consolas;
+    font-size: 13px;
+    border: 3px black;
+     
+}
+p{
+    font-family: fantasy;
+    color:aliceblue;
+
+
+}
+
+#danpic1{
+    visibility: visible;
+    padding: 0px;
+    position: static;
+    top: 0%;
+    left: 0%;
+    border-radius: 50%;
+    border-width: 30px;
+    border-color: rgb(39, 11, 75);
+    border-image-width: 20px;
+    border: 3px double;    
+
+}
+title{
+    font-family: cursive;
+    color:darkblue;
+
+}
+
+
+#danpic1:hover{
+    text-shadow: 0px, 5px, 0px blue;
+}
+#page2{
+    height: 1200px;
+    width: 800px;
+    background-color: rgba(50, 205, 50, 0.572);
+    text-align: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+#page3{
+    height: 1200px;
+    width: 800px;
+    background-color: rgba(50, 205, 50, 0.572);
+    text-align: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+.buttonz{
+    background-color:brown;
+    font-size: 20px;
+    text-align: center;
+    text-emphasis-color: rgb(1, 43, 16);
+    color:aliceblue;
+    align-content: center;
+    font-size: 15px;
+    font-family: cursive;
+    border-radius: 20%;
+    border: 3px solid;
+    border-color:rgb(81, 1, 1);
+    
+
+}
+#project{
+   transform: translateX(150px);
+}
+#aboutme{
+    transform: translateX(300px);
+    
+}
+.buttonz:hover{
+    background-color: darkgoldenrod;
+}
+svg:class{
+color:brown
+}
+img{
+
+}
+.social{
+    color:red;
+   transform: translateX(100px);
+   transform: translateY(300px);
+}
